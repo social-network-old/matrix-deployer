@@ -5,7 +5,7 @@
 # Installation happens on another server ("matrix.<matrix-domain>", see `matrix_server_fqn_matrix`).
 #
 # Example value: example.com
-matrix_domain: ~
+matrix_domain: social.network
 
 # This is where your data lives and what we set up.
 # This and the Riot FQN (see below) are expected to be on the same server.
